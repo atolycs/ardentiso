@@ -148,3 +148,6 @@ xfce4
 lightdm
 lightdm-setting
 
+# Ardent Linux keyring
+ardentlinux-keyring
+ardentlinux-mirrorlist
