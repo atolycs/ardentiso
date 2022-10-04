@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="archlinux"
+iso_name="ardentlinux-amiya-edition"
 iso_label="ARCH_$(date +%Y%m)"
-iso_publisher="Arch Linux <https://archlinux.org>"
-iso_application="Arch Linux Live/Rescue CD"
+iso_publisher="Ardent Linux <https://archlinux.org>"
+iso_application="Ardent Linux Amiya Edition Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
-install_dir="arch"
+install_dir="amiya"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'
            'uefi-ia32.grub.esp' 'uefi-x64.grub.esp'
