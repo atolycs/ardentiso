@@ -149,3 +149,6 @@ xf86-video-vmware
 xf86-video-voodoo
 xf86-video-qxl
 xorg-server
+
+# LightDM
+lightdm
