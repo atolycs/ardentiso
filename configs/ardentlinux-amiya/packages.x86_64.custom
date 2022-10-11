@@ -1,3 +1,4 @@
+# Default Config
 alsa-utils
 amd-ucode
 arch-install-scripts
@@ -121,17 +122,6 @@ xfsprogs
 xl2tpd
 zsh
 
-# Desktop
-xfce4
-
-# Developer
-git
-base-devel
-
-# ArdentLinux Keyring
-#ardentlinux-keyring
-#ardentlinux-mirrorlist
-
 # X Server
 xf86-input-elographics
 xf86-input-libinput
@@ -148,4 +138,16 @@ xf86-video-vesa
 xf86-video-vmware
 xf86-video-voodoo
 xf86-video-qxl
-xorg-server
+
+# Developer
+git
+
+# GUI Software
+firefox
+lightdm
+lightdm-setting
+
+# Ardent Linux keyring
+ardentlinux-keyring
+ardentlinux-mirrorlist
+#xfce4
