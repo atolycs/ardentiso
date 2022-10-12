@@ -129,8 +129,8 @@ git
 base-devel
 
 # ArdentLinux Keyring
-#ardentlinux-keyring
-#ardentlinux-mirrorlist
+ardentlinux-keyring
+ardentlinux-mirrorlist
 
 # X Server
 xf86-input-elographics
@@ -152,3 +152,7 @@ xorg-server
 
 # LightDM
 lightdm
+lightdm-webkit-theme-litarvan
+
+# System
+polkit
