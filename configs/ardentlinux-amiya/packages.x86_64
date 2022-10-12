@@ -121,9 +121,6 @@ xfsprogs
 xl2tpd
 zsh
 
-# Desktop
-xfce4
-
 # Developer
 git
 base-devel
