@@ -123,6 +123,7 @@ zsh
 
 # Developer
 git
+base-devel
 
 # ArdentLinux Keyring
 ardentlinux-keyring
@@ -148,7 +149,7 @@ xorg-server
 
 # LightDM
 lightdm
+lightdm-webkit-theme-litarvan
 
-# Desktop
-xfce4
-
+# System
+polkit
