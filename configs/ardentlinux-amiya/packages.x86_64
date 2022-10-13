@@ -150,6 +150,7 @@ xorg-server
 # LightDM
 lightdm
 lightdm-webkit-theme-litarvan
+lightdm-webkit2-greeter
 
 # System
 polkit
