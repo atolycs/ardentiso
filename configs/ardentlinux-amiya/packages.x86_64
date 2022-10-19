@@ -162,5 +162,9 @@ lightdm
 lightdm-webkit-theme-litarvan
 lightdm-webkit2-greeter
 
+# Program
+python
+ruby
+
 # System
 polkit
