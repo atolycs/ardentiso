@@ -130,6 +130,7 @@ ardentlinux-keyring
 ardentlinux-mirrorlist
 
 # X Server
+gpm
 xf86-input-elographics
 xf86-input-libinput
 xf86-input-vmmouse
