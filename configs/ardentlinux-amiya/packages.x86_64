@@ -160,8 +160,9 @@ nvidia-open
 # LightDM
 lightdm
 lightdm-slick-greeter
-#lightdm-webkit-theme-litarvan
-#lightdm-webkit2-greeter
+lightdm-webkit-theme-litarvan
+lightdm-webkit2-greeter
+xfce4
 
 # Program
 python
