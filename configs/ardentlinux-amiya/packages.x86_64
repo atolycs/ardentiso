@@ -156,13 +156,18 @@ xorg-xinit
 nvidia-open-dkms
 nvidia-open
 
+# Account service
+accountservice
 
 # LightDM
 lightdm
-lightdm-slick-greeter
+#lightdm-slick-greeter
 lightdm-webkit-theme-litarvan
 lightdm-webkit2-greeter
+
+# Display Env
 xfce4
+xfce4-goodies
 
 # Program
 python
@@ -170,3 +175,10 @@ ruby
 
 # System
 polkit
+
+# Japanese Setting
+fcitx5-im
+
+# ArdentLinux Wallpaper
+#ardentlinux-wallpapers
+
