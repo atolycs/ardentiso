@@ -129,6 +129,9 @@ base-devel
 ardentlinux-keyring
 ardentlinux-mirrorlist
 
+# ArdentLinux only
+ardent-os-release-amiya
+
 # X Server
 gpm
 xf86-video-voodoo
