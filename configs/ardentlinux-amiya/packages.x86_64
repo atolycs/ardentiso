@@ -160,7 +160,7 @@ nvidia-open-dkms
 nvidia-open
 
 # Account service
-accountservice
+accountsservice
 
 # LightDM
 lightdm
@@ -171,6 +171,7 @@ lightdm-webkit2-greeter
 # Display Env
 xfce4
 xfce4-goodies
+gvfs
 
 # Program
 python
@@ -178,10 +179,11 @@ ruby
 
 # System
 polkit
+networkmanager
 
 # Japanese Setting
 fcitx5-im
 
 # ArdentLinux Wallpaper
-#ardentlinux-wallpapers
+ardentlinux-artworks
 
