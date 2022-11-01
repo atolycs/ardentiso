@@ -3,3 +3,4 @@ adm:x:4:doctor
 wheel:x:10:doctor
 uucp:x:14:doctor
 doctor:x:1000:
+autologin:x:972:doctor
