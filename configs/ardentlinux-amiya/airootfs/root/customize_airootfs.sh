@@ -4,6 +4,11 @@
 systemctl set-default graphical.target
 systemctl enable lightdm.service
 
+# locale
+locale-gen
+
+# AUR Package Install
+
 #pacman-key --init
 #pacman-key --populate ardentlinux
 #pacman-key --lsign-key Atolycs

@@ -162,11 +162,20 @@ nvidia-open
 # Account service
 accountsservice
 
+# Audio
+pipewire
+pipewire-docs
+wireplumber
+pipewire-pulse
+
 # LightDM
 lightdm
-#lightdm-slick-greeter
-lightdm-webkit-theme-litarvan
-lightdm-webkit2-greeter
+lightdm-slick-greeter
+#lightdm-webkit-theme-litarvan
+#lightdm-webkit2-greeter
+
+# GTK Theme
+gnome-themes-extra
 
 # Display Env
 xfce4
@@ -174,16 +183,20 @@ xfce4-goodies
 gvfs
 
 # Program
-python
-ruby
+#python
+#ruby
 
 # System
 polkit
 networkmanager
 
 # Japanese Setting
+otf-ipafont
 fcitx5-im
 
 # ArdentLinux Wallpaper
 ardentlinux-artworks
 
+# local
+yay
+yaru-sound-theme
